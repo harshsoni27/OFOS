@@ -1,6 +1,10 @@
 package Testscripts;
 
 import org.testng.annotations.Test;
+import org.testng.AssertJUnit;
+import org.testng.Assert;
+import org.testng.annotations.Test;
+import org.testng.annotations.Test;
 
 import Pom.AddRestarauntpage;
 import Pom.Admin_Home;
@@ -9,6 +13,7 @@ import Pom.BasePage1;
 public class TC_15 extends BasePage1{
 	@Test
 	public void AddRestraunt() {
+		String ExceptedResult="Add Restaurant";
 		Admin_Home a=new Admin_Home(driver);
 		a.getRestaurant().click();
 		a.getAddRestaurant().click();
@@ -22,6 +27,7 @@ public class TC_15 extends BasePage1{
 		r.getDay().click();
 		r.getAddress().sendKeys("Bengaluru");
 		r.getSave().click();
+		AssertJUnit.assertEquals(driver.getTitle(), ExceptedResult);
 	}
 
 }

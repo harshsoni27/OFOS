@@ -1,6 +1,10 @@
 package Testscripts;
 
 import org.testng.annotations.Test;
+import org.testng.AssertJUnit;
+import org.testng.Assert;
+import org.testng.annotations.Test;
+import org.testng.annotations.Test;
 
 import Pom.Admin_Home;
 import Pom.BasePage;
@@ -12,6 +16,7 @@ import Pom.RestraurantPage;
 public class TC_23 extends BasePage{
 	@Test
 	public void Orders() {
+		String ExceptedResult="Checkout";
 		OFOS_welcomepage o=new OFOS_welcomepage(driver);
 		o.getRestaurantLink().click();
 		RestraurantPage r=new RestraurantPage(driver);
@@ -19,6 +24,7 @@ public class TC_23 extends BasePage{
 		HighLandsBarAndGrill h=new HighLandsBarAndGrill(driver);
 		h.getMeatballsaddToCart().click();
 		h.getCheckOutButton().click();
+		AssertJUnit.assertEquals(driver.getTitle(), ExceptedResult);
 	}
 	
 		@Test

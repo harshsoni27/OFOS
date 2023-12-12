@@ -3,13 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Testscripts.TC_03">
+      <class name="Testscripts.TC_16">
         <methods>
           <include name="Browserlaunch"/>
-          <include name="Users"/>
+          <include name="downtear"/>
+          <include name="EditRes"/>
           <include name="logintoApp"/>
         </methods>
-      </class> <!-- Testscripts.TC_03 -->
+      </class> <!-- Testscripts.TC_16 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

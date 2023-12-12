@@ -1,5 +1,9 @@
 package Testscripts;
 
+import org.testng.annotations.Test;
+import org.testng.AssertJUnit;
+import org.testng.annotations.Test;
+import org.testng.AssertJUnit;
 import static org.testng.Assert.assertEquals;
 
 import org.testng.annotations.Test;
@@ -15,6 +19,6 @@ public void delete() {
 	a.getAddCategory().click();
 	a.getDelete().click();
 	
-	assertEquals(driver.getTitle(), "Add Category", "Add Category page displayed");
+	AssertJUnit.assertEquals(driver.getTitle(), "Add Category");
 }
 }

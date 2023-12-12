@@ -1,101 +1,1611 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="0" failed="0" skipped="1">
+<testng-results ignored="0" total="41" passed="24" failed="15" skipped="2">
   <reporter-output>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser window is maximised]]>
+    </line>
   </reporter-output>
-  <suite started-at="2023-12-08T11:09:54 IST" name="Default suite" finished-at="2023-12-08T11:09:54 IST" duration-ms="693">
+  <suite started-at="2023-12-12T16:54:51 IST" name="Suite" finished-at="2023-12-12T16:58:20 IST" duration-ms="209138">
     <groups>
     </groups>
-    <test started-at="2023-12-08T11:09:54 IST" name="Default test" finished-at="2023-12-08T11:09:54 IST" duration-ms="693">
-      <class name="Testscripts.TC_03">
-        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_03@31368b99]" started-at="2023-12-08T11:09:54 IST" name="Browserlaunch" finished-at="2023-12-08T11:09:54 IST" duration-ms="645" status="FAIL">
-          <exception class="org.openqa.selenium.remote.NoSuchDriverException">
-            <message>
-              <![CDATA[Unable to obtain: Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*], extensions: []}}, error Command failed with code: 65, executed: [--browser, chrome, --output, json]
-error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json): error trying to connect: dns error: failed to lookup address information: nodename nor servname provided, or not known
-Build info: version: '4.12.1', revision: '8e34639b11'
-System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '17.0.8'
-Driver info: driver.version: ChromeDriver]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.remote.NoSuchDriverException: Unable to obtain: Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*], extensions: []}}, error Command failed with code: 65, executed: [--browser, chrome, --output, json]
-error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json): error trying to connect: dns error: failed to lookup address information: nodename nor servname provided, or not known
-Build info: version: '4.12.1', revision: '8e34639b11'
-System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '17.0.8'
-Driver info: driver.version: ChromeDriver
-at org.openqa.selenium.remote.service.DriverFinder.getPath(DriverFinder.java:25)
-at org.openqa.selenium.remote.service.DriverFinder.getPath(DriverFinder.java:13)
-at org.openqa.selenium.chrome.ChromeDriver.generateExecutor(ChromeDriver.java:99)
-at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:88)
-at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:83)
-at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:51)
-at Pom.BasePage1.Browserlaunch(BasePage1.java:20)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
-at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
-at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
-at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
-at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:176)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:122)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:794)
-at org.testng.TestRunner.run(TestRunner.java:596)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-at org.testng.TestNG.runSuites(TestNG.java:1063)
-at org.testng.TestNG.run(TestNG.java:1031)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-Caused by: org.openqa.selenium.WebDriverException: Command failed with code: 65, executed: [--browser, chrome, --output, json]
-error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json): error trying to connect: dns error: failed to lookup address information: nodename nor servname provided, or not known
-Build info: version: '4.12.1', revision: '8e34639b11'
-System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '17.0.8'
-Driver info: driver.version: ChromeDriver
-at org.openqa.selenium.manager.SeleniumManager.runCommand(SeleniumManager.java:144)
-at org.openqa.selenium.manager.SeleniumManager.getDriverPath(SeleniumManager.java:299)
-at org.openqa.selenium.remote.service.DriverFinder.getPath(DriverFinder.java:22)
-... 32 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.remote.NoSuchDriverException -->
+    <test started-at="2023-12-12T16:54:51 IST" name="Test" finished-at="2023-12-12T16:58:20 IST" duration-ms="209138">
+      <class name="Testscripts.TC_08">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_08@2e005c4b]" started-at="2023-12-12T16:56:12 IST" name="Browserlaunch" finished-at="2023-12-12T16:56:17 IST" duration-ms="4775" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
           </reporter-output>
         </test-method> <!-- Browserlaunch -->
-        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_03@31368b99]" started-at="2023-12-08T11:09:54 IST" name="logintoApp" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1702013994920" status="SKIP">
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_08@2e005c4b]" started-at="2023-12-12T16:56:17 IST" name="logintoApp" finished-at="2023-12-12T16:56:32 IST" duration-ms="15171" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logintoApp -->
-        <test-method signature="Users()[pri:0, instance:Testscripts.TC_03@31368b99]" started-at="2023-12-08T11:09:54 IST" name="Users" finished-at="2023-12-08T11:09:54 IST" duration-ms="0" status="SKIP">
-          <exception class="org.openqa.selenium.remote.NoSuchDriverException">
+        <test-method signature="Cancelled()[pri:0, instance:Testscripts.TC_08@2e005c4b]" started-at="2023-12-12T16:56:32 IST" name="Cancelled" finished-at="2023-12-12T16:56:43 IST" duration-ms="10685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cancelled -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_08@2e005c4b]" started-at="2023-12-12T16:56:43 IST" name="downtear" finished-at="2023-12-12T16:56:43 IST" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_08 -->
+      <class name="Testscripts.Tc_05">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.Tc_05@294425a7]" started-at="2023-12-12T16:57:46 IST" name="Browserlaunch" finished-at="2023-12-12T16:57:50 IST" duration-ms="4176" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.Tc_05@294425a7]" started-at="2023-12-12T16:57:50 IST" name="logintoApp" finished-at="2023-12-12T16:57:56 IST" duration-ms="5861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="AllRestarant()[pri:0, instance:Testscripts.Tc_05@294425a7]" started-at="2023-12-12T16:57:56 IST" name="AllRestarant" finished-at="2023-12-12T16:58:00 IST" duration-ms="3689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AllRestarant -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.Tc_05@294425a7]" started-at="2023-12-12T16:58:00 IST" name="downtear" finished-at="2023-12-12T16:58:00 IST" duration-ms="259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.Tc_05 -->
+      <class name="Testscripts.SampleTestCase">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.SampleTestCase@44ebcd03]" started-at="2023-12-12T16:56:01 IST" name="Browserlaunch" finished-at="2023-12-12T16:56:06 IST" duration-ms="4614" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.SampleTestCase@44ebcd03]" started-at="2023-12-12T16:56:06 IST" name="logintoApp" finished-at="2023-12-12T16:56:12 IST" duration-ms="6364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="launching()[pri:0, instance:Testscripts.SampleTestCase@44ebcd03]" started-at="2023-12-12T16:56:12 IST" name="launching" finished-at="2023-12-12T16:56:12 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launching -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.SampleTestCase@44ebcd03]" started-at="2023-12-12T16:56:12 IST" name="downtear" finished-at="2023-12-12T16:56:12 IST" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.SampleTestCase -->
+      <class name="Testscripts.TC_32">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_32@5fdcaa40]" started-at="2023-12-12T16:54:51 IST" name="Browserlaunch" finished-at="2023-12-12T16:54:59 IST" duration-ms="7485" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_32@5fdcaa40]" started-at="2023-12-12T16:54:59 IST" name="logintoApp" finished-at="2023-12-12T16:55:05 IST" duration-ms="6151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="AddToCart()[pri:0, instance:Testscripts.TC_32@5fdcaa40]" started-at="2023-12-12T16:55:05 IST" name="AddToCart" finished-at="2023-12-12T16:55:26 IST" duration-ms="20765" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
-              <![CDATA[Unable to obtain: Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*], extensions: []}}, error Command failed with code: 65, executed: [--browser, chrome, --output, json]
-error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json): error trying to connect: dns error: failed to lookup address information: nodename nor servname provided, or not known
+              <![CDATA[no such element: Unable to locate element: {"method":"link text","selector":"Highlands Bar & Grill"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Build info: version: '4.12.1', revision: '8e34639b11'
-System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '17.0.8'
-Driver info: driver.version: ChromeDriver]]>
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a7110a9281d15909eb31629c262a35fe, findElement {using=link text, value=Highlands Bar & Grill}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55749}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55749/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a7110a9281d15909eb31629c262a35fe]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.remote.NoSuchDriverException: Unable to obtain: Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*], extensions: []}}, error Command failed with code: 65, executed: [--browser, chrome, --output, json]
-error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json): error trying to connect: dns error: failed to lookup address information: nodename nor servname provided, or not known
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Highlands Bar & Grill"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Build info: version: '4.12.1', revision: '8e34639b11'
-System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '17.0.8'
-Driver info: driver.version: ChromeDriver
-at org.openqa.selenium.remote.service.DriverFinder.getPath(DriverFinder.java:25)
-at org.openqa.selenium.remote.service.DriverFinder.getPath(DriverFinder.java:13)
-at org.openqa.selenium.chrome.ChromeDriver.generateExecutor(ChromeDriver.java:99)
-at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:88)
-at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:83)
-at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:51)
-at Pom.BasePage1.Browserlaunch(BasePage1.java:20)
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a7110a9281d15909eb31629c262a35fe, findElement {using=link text, value=Highlands Bar & Grill}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55749}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55749/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a7110a9281d15909eb31629c262a35fe
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at Testscripts.TC_32.AddToCart(TC_32.java:22)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCart -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_32@5fdcaa40]" started-at="2023-12-12T16:55:26 IST" name="downtear" finished-at="2023-12-12T16:55:26 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_32 -->
+      <class name="Testscripts.TC_10">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_10@15ff3e9e]" started-at="2023-12-12T16:54:51 IST" name="Browserlaunch" finished-at="2023-12-12T16:54:59 IST" duration-ms="7299" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_10@15ff3e9e]" started-at="2023-12-12T16:54:59 IST" name="logintoApp" finished-at="2023-12-12T16:55:03 IST" duration-ms="4403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="adminModule()[pri:0, instance:Testscripts.TC_10@15ff3e9e]" started-at="2023-12-12T16:55:03 IST" name="adminModule" finished-at="2023-12-12T16:55:08 IST" duration-ms="4891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminModule -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_10@15ff3e9e]" started-at="2023-12-12T16:55:08 IST" name="downtear" finished-at="2023-12-12T16:55:08 IST" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_10 -->
+      <class name="Testscripts.TC_31">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_31@6dc17b83]" started-at="2023-12-12T16:54:51 IST" name="Browserlaunch" finished-at="2023-12-12T16:54:58 IST" duration-ms="7130" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_31@6dc17b83]" started-at="2023-12-12T16:54:58 IST" name="logintoApp" finished-at="2023-12-12T16:55:05 IST" duration-ms="6653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="RCategory()[pri:0, instance:Testscripts.TC_31@6dc17b83]" started-at="2023-12-12T16:55:05 IST" name="RCategory" finished-at="2023-12-12T16:55:26 IST" duration-ms="21264" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"link text","selector":"Highlands Bar & Grill"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [86bc990f0032838e8926b23c4deac43d, findElement {using=link text, value=Highlands Bar & Grill}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55751}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55751/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 86bc990f0032838e8926b23c4deac43d]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Highlands Bar & Grill"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [86bc990f0032838e8926b23c4deac43d, findElement {using=link text, value=Highlands Bar & Grill}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55751}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55751/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 86bc990f0032838e8926b23c4deac43d
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at Testscripts.TC_31.RCategory(TC_31.java:20)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RCategory -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_31@6dc17b83]" started-at="2023-12-12T16:55:26 IST" name="downtear" finished-at="2023-12-12T16:55:27 IST" duration-ms="499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_31 -->
+      <class name="Testscripts.TC_30">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_30@1d9b7cce]" started-at="2023-12-12T16:54:51 IST" name="Browserlaunch" finished-at="2023-12-12T16:54:58 IST" duration-ms="7240" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_30@1d9b7cce]" started-at="2023-12-12T16:54:58 IST" name="logintoApp" finished-at="2023-12-12T16:55:08 IST" duration-ms="9051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="restaurant()[pri:0, instance:Testscripts.TC_30@1d9b7cce]" started-at="2023-12-12T16:55:08 IST" name="restaurant" finished-at="2023-12-12T16:55:10 IST" duration-ms="2341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restaurant -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_30@1d9b7cce]" started-at="2023-12-12T16:55:10 IST" name="downtear" finished-at="2023-12-12T16:55:10 IST" duration-ms="478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_30 -->
+      <class name="Testscripts.TC_029">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_029@6379eb]" started-at="2023-12-12T16:57:43 IST" name="Browserlaunch" finished-at="2023-12-12T16:57:48 IST" duration-ms="4873" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_029@6379eb]" started-at="2023-12-12T16:57:48 IST" name="logintoApp" finished-at="2023-12-12T16:58:00 IST" duration-ms="12479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="OrderNow()[pri:0, instance:Testscripts.TC_029@6379eb]" started-at="2023-12-12T16:58:00 IST" name="OrderNow" finished-at="2023-12-12T16:58:20 IST" duration-ms="20053" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"link text","selector":"Home "}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a71e9a072cbec9e55e44dd4388855c78, findElement {using=link text, value=Home }]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56360}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56360/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a71e9a072cbec9e55e44dd4388855c78]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Home "}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a71e9a072cbec9e55e44dd4388855c78, findElement {using=link text, value=Home }]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56360}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56360/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a71e9a072cbec9e55e44dd4388855c78
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at Testscripts.TC_029.OrderNow(TC_029.java:15)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderNow -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_029@6379eb]" started-at="2023-12-12T16:58:20 IST" name="downtear" finished-at="2023-12-12T16:58:20 IST" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_029 -->
+      <class name="Testscripts.TC_14">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_14@6aba2b86]" started-at="2023-12-12T16:55:23 IST" name="Browserlaunch" finished-at="2023-12-12T16:55:26 IST" duration-ms="3445" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_14@6aba2b86]" started-at="2023-12-12T16:55:26 IST" name="logintoApp" finished-at="2023-12-12T16:55:35 IST" duration-ms="9374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="delete()[pri:0, instance:Testscripts.TC_14@6aba2b86]" started-at="2023-12-12T16:55:35 IST" name="delete" finished-at="2023-12-12T16:55:39 IST" duration-ms="3466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_14@6aba2b86]" started-at="2023-12-12T16:55:39 IST" name="downtear" finished-at="2023-12-12T16:55:39 IST" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_14 -->
+      <class name="Testscripts.TC_36">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_36@158da8e]" started-at="2023-12-12T16:55:25 IST" name="Browserlaunch" finished-at="2023-12-12T16:55:30 IST" duration-ms="4886" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_36@158da8e]" started-at="2023-12-12T16:55:30 IST" name="logintoApp" finished-at="2023-12-12T16:55:34 IST" duration-ms="3821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="delete()[pri:0, instance:Testscripts.TC_36@158da8e]" started-at="2023-12-12T16:55:34 IST" name="delete" finished-at="2023-12-12T16:55:54 IST" duration-ms="20838" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"link text","selector":"Highlands Bar & Grill"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [31394056c1491591a959c7a63f6f4bff, findElement {using=link text, value=Highlands Bar & Grill}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55883}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55883/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 31394056c1491591a959c7a63f6f4bff]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Highlands Bar & Grill"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [31394056c1491591a959c7a63f6f4bff, findElement {using=link text, value=Highlands Bar & Grill}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55883}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55883/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 31394056c1491591a959c7a63f6f4bff
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at Testscripts.TC_36.delete(TC_36.java:24)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_36@158da8e]" started-at="2023-12-12T16:55:54 IST" name="downtear" finished-at="2023-12-12T16:55:55 IST" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_36 -->
+      <class name="Testscripts.TC_13">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_13@74e52303]" started-at="2023-12-12T16:55:26 IST" name="Browserlaunch" finished-at="2023-12-12T16:55:31 IST" duration-ms="5347" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_13@74e52303]" started-at="2023-12-12T16:55:31 IST" name="logintoApp" finished-at="2023-12-12T16:55:37 IST" duration-ms="6055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="update()[pri:0, instance:Testscripts.TC_13@74e52303]" started-at="2023-12-12T16:55:37 IST" name="update" finished-at="2023-12-12T16:55:43 IST" duration-ms="5758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_13@74e52303]" started-at="2023-12-12T16:55:43 IST" name="downtear" finished-at="2023-12-12T16:55:43 IST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_13 -->
+      <class name="Testscripts.TC_35">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_35@47af7f3d]" started-at="2023-12-12T16:55:27 IST" name="Browserlaunch" finished-at="2023-12-12T16:55:31 IST" duration-ms="4672" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_35@47af7f3d]" started-at="2023-12-12T16:55:31 IST" name="logintoApp" finished-at="2023-12-12T16:55:37 IST" duration-ms="5468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="price()[pri:0, instance:Testscripts.TC_35@47af7f3d]" started-at="2023-12-12T16:55:37 IST" name="price" finished-at="2023-12-12T16:55:58 IST" duration-ms="20915" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"link text","selector":"Highlands Bar & Grill"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b476255905554289de9bf6e9f7f46d40, findElement {using=link text, value=Highlands Bar & Grill}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55897}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55897/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b476255905554289de9bf6e9f7f46d40]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Highlands Bar & Grill"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b476255905554289de9bf6e9f7f46d40, findElement {using=link text, value=Highlands Bar & Grill}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55897}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55897/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b476255905554289de9bf6e9f7f46d40
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at Testscripts.TC_35.price(TC_35.java:23)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- price -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_35@47af7f3d]" started-at="2023-12-12T16:55:58 IST" name="downtear" finished-at="2023-12-12T16:55:58 IST" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_35 -->
+      <class name="Testscripts.TC_12">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_12@5e0826e7]" started-at="2023-12-12T16:54:51 IST" name="Browserlaunch" finished-at="2023-12-12T16:54:58 IST" duration-ms="7216" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_12@5e0826e7]" started-at="2023-12-12T16:54:58 IST" name="logintoApp" finished-at="2023-12-12T16:55:04 IST" duration-ms="5831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="newcategory()[pri:0, instance:Testscripts.TC_12@5e0826e7]" started-at="2023-12-12T16:55:04 IST" name="newcategory" finished-at="2023-12-12T16:55:09 IST" duration-ms="4989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newcategory -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_12@5e0826e7]" started-at="2023-12-12T16:55:09 IST" name="downtear" finished-at="2023-12-12T16:55:10 IST" duration-ms="731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_12 -->
+      <class name="Testscripts.TC_34">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_34@32eff876]" started-at="2023-12-12T16:55:08 IST" name="Browserlaunch" finished-at="2023-12-12T16:55:15 IST" duration-ms="6905" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_34@32eff876]" started-at="2023-12-12T16:55:15 IST" name="logintoApp" finished-at="2023-12-12T16:55:22 IST" duration-ms="7433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="NegativeQuantity()[pri:0, instance:Testscripts.TC_34@32eff876]" started-at="2023-12-12T16:55:22 IST" name="NegativeQuantity" finished-at="2023-12-12T16:55:25 IST" duration-ms="2321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NegativeQuantity -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_34@32eff876]" started-at="2023-12-12T16:55:25 IST" name="downtear" finished-at="2023-12-12T16:55:25 IST" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_34 -->
+      <class name="Testscripts.TC_11">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_11@8dbdac1]" started-at="2023-12-12T16:55:10 IST" name="Browserlaunch" finished-at="2023-12-12T16:55:14 IST" duration-ms="4375" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_11@8dbdac1]" started-at="2023-12-12T16:55:14 IST" name="logintoApp" finished-at="2023-12-12T16:55:20 IST" duration-ms="5511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="DisplayRestaurant()[pri:0, instance:Testscripts.TC_11@8dbdac1]" started-at="2023-12-12T16:55:20 IST" name="DisplayRestaurant" finished-at="2023-12-12T16:55:22 IST" duration-ms="2400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DisplayRestaurant -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_11@8dbdac1]" started-at="2023-12-12T16:55:22 IST" name="downtear" finished-at="2023-12-12T16:55:23 IST" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_11 -->
+      <class name="Testscripts.TC_33">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_33@3ce1e309]" started-at="2023-12-12T16:55:10 IST" name="Browserlaunch" finished-at="2023-12-12T16:55:14 IST" duration-ms="4133" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_33@3ce1e309]" started-at="2023-12-12T16:55:14 IST" name="logintoApp" finished-at="2023-12-12T16:55:20 IST" duration-ms="5351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="Quantity()[pri:0, instance:Testscripts.TC_33@3ce1e309]" started-at="2023-12-12T16:55:20 IST" name="Quantity" finished-at="2023-12-12T16:55:42 IST" duration-ms="22593" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"link text","selector":"Highlands Bar & Grill"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ee912f392f6b678606c3590ac1c5eb19, findElement {using=link text, value=Highlands Bar & Grill}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55834}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55834/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ee912f392f6b678606c3590ac1c5eb19]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Highlands Bar & Grill"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ee912f392f6b678606c3590ac1c5eb19, findElement {using=link text, value=Highlands Bar & Grill}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55834}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55834/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ee912f392f6b678606c3590ac1c5eb19
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at Testscripts.TC_33.Quantity(TC_33.java:21)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quantity -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_33@3ce1e309]" started-at="2023-12-12T16:55:42 IST" name="downtear" finished-at="2023-12-12T16:55:43 IST" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_33 -->
+      <class name="Testscripts.TC_18">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_18@79924b]" started-at="2023-12-12T16:57:25 IST" name="Browserlaunch" finished-at="2023-12-12T16:57:32 IST" duration-ms="6698" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_18@79924b]" started-at="2023-12-12T16:57:32 IST" name="logintoApp" finished-at="2023-12-12T16:57:40 IST" duration-ms="8702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="AllMenu()[pri:0, instance:Testscripts.TC_18@79924b]" started-at="2023-12-12T16:57:40 IST" name="AllMenu" finished-at="2023-12-12T16:57:45 IST" duration-ms="4837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AllMenu -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_18@79924b]" started-at="2023-12-12T16:57:45 IST" name="downtear" finished-at="2023-12-12T16:57:46 IST" duration-ms="549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_18 -->
+      <class name="Testscripts.TC_39">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_39@4a94ee4]" started-at="2023-12-12T16:57:28 IST" name="Browserlaunch" finished-at="2023-12-12T16:57:35 IST" duration-ms="6124" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_39@4a94ee4]" started-at="2023-12-12T16:57:35 IST" name="logintoApp" finished-at="2023-12-12T16:57:42 IST" duration-ms="7732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="PayPage()[pri:0, instance:Testscripts.TC_39@4a94ee4]" started-at="2023-12-12T16:57:42 IST" name="PayPage" finished-at="2023-12-12T16:58:03 IST" duration-ms="21166" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"link text","selector":"Highlands Bar & Grill"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0b66f04ceb9b266a8d2535af9385b437, findElement {using=link text, value=Highlands Bar & Grill}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56313/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0b66f04ceb9b266a8d2535af9385b437]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Highlands Bar & Grill"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0b66f04ceb9b266a8d2535af9385b437, findElement {using=link text, value=Highlands Bar & Grill}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56313/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0b66f04ceb9b266a8d2535af9385b437
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at Testscripts.TC_39.PayPage(TC_39.java:23)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PayPage -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_39@4a94ee4]" started-at="2023-12-12T16:58:03 IST" name="downtear" finished-at="2023-12-12T16:58:04 IST" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_39 -->
+      <class name="Testscripts.TC_17">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_17@7b9a4292]" started-at="2023-12-12T16:57:27 IST" name="Browserlaunch" finished-at="2023-12-12T16:57:34 IST" duration-ms="6875" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_17@7b9a4292]" started-at="2023-12-12T16:57:34 IST" name="logintoApp" finished-at="2023-12-12T16:57:51 IST" duration-ms="17420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="Delete()[pri:0, instance:Testscripts.TC_17@7b9a4292]" started-at="2023-12-12T16:57:51 IST" name="Delete" finished-at="2023-12-12T16:57:55 IST" duration-ms="4444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_17@7b9a4292]" started-at="2023-12-12T16:57:55 IST" name="downtear" finished-at="2023-12-12T16:57:56 IST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_17 -->
+      <class name="Testscripts.TC_16">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_16@7c729a55]" started-at="2023-12-12T16:55:39 IST" name="Browserlaunch" finished-at="2023-12-12T16:55:44 IST" duration-ms="5339" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_16@7c729a55]" started-at="2023-12-12T16:55:44 IST" name="logintoApp" finished-at="2023-12-12T16:55:52 IST" duration-ms="7225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="EditRes()[pri:0, instance:Testscripts.TC_16@7c729a55]" started-at="2023-12-12T16:55:52 IST" name="EditRes" finished-at="2023-12-12T16:56:00 IST" duration-ms="8702" status="FAIL">
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <i class="fa fa-edit"></i> is not clickable at point (1369, 321). Other element would receive the click: <div class="preloader" style="opacity: 1;">...</div>
+  (Session info: chrome=120.0.6099.71)
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5bab7d59b8a36cbe133f619f29319b59, clickElement {id=5C9C58D9BB46DED5D8995CADEFD0E616_element_478}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55935}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55935/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (5bab7d59b8a36cbe133f619f29319b59)] -> xpath: (//i[@class='fa fa-edit'])[1]]
+Session ID: 5bab7d59b8a36cbe133f619f29319b59]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <i class="fa fa-edit"></i> is not clickable at point (1369, 321). Other element would receive the click: <div class="preloader" style="opacity: 1;">...</div>
+  (Session info: chrome=120.0.6099.71)
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5bab7d59b8a36cbe133f619f29319b59, clickElement {id=5C9C58D9BB46DED5D8995CADEFD0E616_element_478}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55935}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55935/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (5bab7d59b8a36cbe133f619f29319b59)] -> xpath: (//i[@class='fa fa-edit'])[1]]
+Session ID: 5bab7d59b8a36cbe133f619f29319b59
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at Testscripts.TC_16.EditRes(TC_16.java:21)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditRes -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_16@7c729a55]" started-at="2023-12-12T16:56:00 IST" name="downtear" finished-at="2023-12-12T16:56:01 IST" duration-ms="834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_16 -->
+      <class name="Testscripts.TC_38">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_38@3bb9a3ff]" started-at="2023-12-12T16:55:43 IST" name="Browserlaunch" finished-at="2023-12-12T16:55:48 IST" duration-ms="5379" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_38@3bb9a3ff]" started-at="2023-12-12T16:55:48 IST" name="logintoApp" finished-at="2023-12-12T16:55:58 IST" duration-ms="9672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="OrderedItems()[pri:0, instance:Testscripts.TC_38@3bb9a3ff]" started-at="2023-12-12T16:55:58 IST" name="OrderedItems" finished-at="2023-12-12T16:56:19 IST" duration-ms="21215" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"link text","selector":"Highlands Bar & Grill"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [88a473e22157c735fffef5ee1022c318, findElement {using=link text, value=Highlands Bar & Grill}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55949}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55949/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 88a473e22157c735fffef5ee1022c318]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Highlands Bar & Grill"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [88a473e22157c735fffef5ee1022c318, findElement {using=link text, value=Highlands Bar & Grill}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55949}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55949/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 88a473e22157c735fffef5ee1022c318
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at Testscripts.TC_38.OrderedItems(TC_38.java:23)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderedItems -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_38@3bb9a3ff]" started-at="2023-12-12T16:56:19 IST" name="downtear" finished-at="2023-12-12T16:56:19 IST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_38 -->
+      <class name="Testscripts.TC_37">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_37@5af3afd9]" started-at="2023-12-12T16:55:55 IST" name="Browserlaunch" finished-at="2023-12-12T16:56:01 IST" duration-ms="5822" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_37@5af3afd9]" started-at="2023-12-12T16:56:01 IST" name="logintoApp" finished-at="2023-12-12T16:56:11 IST" duration-ms="9967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="OrderPage()[pri:0, instance:Testscripts.TC_37@5af3afd9]" started-at="2023-12-12T16:56:11 IST" name="OrderPage" finished-at="2023-12-12T16:56:32 IST" duration-ms="21138" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"link text","selector":"Highlands Bar & Grill"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f7c6620c63ea719ef7722c477547094f, findElement {using=link text, value=Highlands Bar & Grill}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55983}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55983/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f7c6620c63ea719ef7722c477547094f]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Highlands Bar & Grill"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f7c6620c63ea719ef7722c477547094f, findElement {using=link text, value=Highlands Bar & Grill}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55983}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55983/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f7c6620c63ea719ef7722c477547094f
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at Testscripts.TC_37.OrderPage(TC_37.java:24)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderPage -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_37@5af3afd9]" started-at="2023-12-12T16:56:32 IST" name="downtear" finished-at="2023-12-12T16:56:33 IST" duration-ms="794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_37 -->
+      <class name="Testscripts.TC_15">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_15@661972b0]" started-at="2023-12-12T16:55:43 IST" name="Browserlaunch" finished-at="2023-12-12T16:55:48 IST" duration-ms="4695" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_15@661972b0]" started-at="2023-12-12T16:55:48 IST" name="logintoApp" finished-at="2023-12-12T16:55:54 IST" duration-ms="5626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="AddRestraunt()[pri:0, instance:Testscripts.TC_15@661972b0]" started-at="2023-12-12T16:55:54 IST" name="AddRestraunt" finished-at="2023-12-12T16:56:05 IST" duration-ms="10988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddRestraunt -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_15@661972b0]" started-at="2023-12-12T16:56:05 IST" name="downtear" finished-at="2023-12-12T16:56:05 IST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_15 -->
+      <class name="Testscripts.TC_19">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_19@4cc451f2]" started-at="2023-12-12T16:57:34 IST" name="Browserlaunch" finished-at="2023-12-12T16:57:38 IST" duration-ms="4244" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_19@4cc451f2]" started-at="2023-12-12T16:57:38 IST" name="logintoApp" finished-at="2023-12-12T16:57:54 IST" duration-ms="15875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="AddNewDish()[pri:0, instance:Testscripts.TC_19@4cc451f2]" started-at="2023-12-12T16:57:54 IST" name="AddNewDish" finished-at="2023-12-12T16:57:59 IST" duration-ms="5440" status="FAIL">
+          <exception class="org.openqa.selenium.InvalidSelectorException">
+            <message>
+              <![CDATA[invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0d4deafd855841d47e1d0affc87b8da6, findElement {using=name, value=//option[text()='Eataly']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56332}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56332/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0d4deafd855841d47e1d0affc87b8da6]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.InvalidSelectorException: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0d4deafd855841d47e1d0affc87b8da6, findElement {using=name, value=//option[text()='Eataly']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56332}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56332/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0d4deafd855841d47e1d0affc87b8da6
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at Testscripts.TC_19.AddNewDish(TC_19.java:25)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.InvalidSelectorException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewDish -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_19@4cc451f2]" started-at="2023-12-12T16:57:59 IST" name="downtear" finished-at="2023-12-12T16:57:59 IST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_19 -->
+      <class name="Testscripts.TC_21">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_21@5ffead27]" started-at="2023-12-12T16:56:23 IST" name="Browserlaunch" finished-at="2023-12-12T16:56:27 IST" duration-ms="4649" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_21@5ffead27]" started-at="2023-12-12T16:56:27 IST" name="logintoApp" finished-at="2023-12-12T16:56:35 IST" duration-ms="7700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="update()[pri:0, instance:Testscripts.TC_21@5ffead27]" started-at="2023-12-12T16:56:35 IST" name="update" finished-at="2023-12-12T16:56:40 IST" duration-ms="4950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_21@5ffead27]" started-at="2023-12-12T16:56:40 IST" name="downtear" finished-at="2023-12-12T16:56:40 IST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_21 -->
+      <class name="Testscripts.TC_20">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_20@6356695f]" started-at="2023-12-12T16:56:29 IST" name="Browserlaunch" finished-at="2023-12-12T16:56:33 IST" duration-ms="3972" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_20@6356695f]" started-at="2023-12-12T16:56:33 IST" name="logintoApp" finished-at="2023-12-12T16:56:50 IST" duration-ms="17721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="Orders()[pri:0, instance:Testscripts.TC_20@6356695f]" started-at="2023-12-12T16:56:50 IST" name="Orders" finished-at="2023-12-12T16:57:11 IST" duration-ms="20649" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"(//a[text()='View Menu'])[4]"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [156db21b0351e3e15fae69e776aa53a8, findElement {using=xpath, value=(//a[text()='View Menu'])[4]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56099}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56099/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 156db21b0351e3e15fae69e776aa53a8]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//a[text()='View Menu'])[4]"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [156db21b0351e3e15fae69e776aa53a8, findElement {using=xpath, value=(//a[text()='View Menu'])[4]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56099}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56099/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 156db21b0351e3e15fae69e776aa53a8
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at Testscripts.TC_20.Orders(TC_20.java:23)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Orders -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_20@6356695f]" started-at="2023-12-12T16:57:11 IST" name="downtear" finished-at="2023-12-12T16:57:11 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_20@6356695f]" started-at="2023-12-12T16:57:11 IST" name="logintoApp" finished-at="2023-12-12T16:57:11 IST" duration-ms="4" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, get {url=http://elftestingserver/domain/Online_Food_Ordering_System/login.php}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56099}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56099/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, get {url=http://elftestingserver/domain/Online_Food_Ordering_System/login.php}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56099}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56099/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:152)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:304)
+at Pom.BasePage.logintoApp(BasePage.java:28)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -104,40 +1614,666 @@ at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelpe
 at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
 at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
 at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
-at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:176)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:122)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:794)
-at org.testng.TestRunner.run(TestRunner.java:596)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-at org.testng.TestNG.runSuites(TestNG.java:1063)
-at org.testng.TestNG.run(TestNG.java:1031)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-Caused by: org.openqa.selenium.WebDriverException: Command failed with code: 65, executed: [--browser, chrome, --output, json]
-error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json): error trying to connect: dns error: failed to lookup address information: nodename nor servname provided, or not known
-Build info: version: '4.12.1', revision: '8e34639b11'
-System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '17.0.8'
-Driver info: driver.version: ChromeDriver
-at org.openqa.selenium.manager.SeleniumManager.runCommand(SeleniumManager.java:144)
-at org.openqa.selenium.manager.SeleniumManager.getDriverPath(SeleniumManager.java:299)
-at org.openqa.selenium.remote.service.DriverFinder.getPath(DriverFinder.java:22)
-... 32 more
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:700)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:527)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.remote.NoSuchDriverException -->
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="adminOrders()[pri:0, instance:Testscripts.TC_20@6356695f]" started-at="2023-12-12T16:57:11 IST" name="adminOrders" finished-at="2023-12-12T16:57:11 IST" duration-ms="0" status="SKIP">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, get {url=http://elftestingserver/domain/Online_Food_Ordering_System/login.php}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56099}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56099/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, get {url=http://elftestingserver/domain/Online_Food_Ordering_System/login.php}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56099}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56099/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:152)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:304)
+at Pom.BasePage.logintoApp(BasePage.java:28)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:700)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:527)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminOrders -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_20@6356695f]" started-at="2023-12-12T16:57:11 IST" name="downtear" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1702380431763" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_20 -->
+      <class name="Testscripts.TC_40">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_40@4567f35d]" started-at="2023-12-12T16:56:19 IST" name="Browserlaunch" finished-at="2023-12-12T16:56:24 IST" duration-ms="5049" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_40@4567f35d]" started-at="2023-12-12T16:56:24 IST" name="logintoApp" finished-at="2023-12-12T16:56:49 IST" duration-ms="25096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="UpdatedOrders()[pri:0, instance:Testscripts.TC_40@4567f35d]" started-at="2023-12-12T16:56:49 IST" name="UpdatedOrders" finished-at="2023-12-12T16:57:10 IST" duration-ms="20739" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"link text","selector":"Highlands Bar & Grill"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [42df19e62f3807beb084e349f33fc730, findElement {using=link text, value=Highlands Bar & Grill}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56071}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56071/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 42df19e62f3807beb084e349f33fc730]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Highlands Bar & Grill"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [42df19e62f3807beb084e349f33fc730, findElement {using=link text, value=Highlands Bar & Grill}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56071}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56071/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 42df19e62f3807beb084e349f33fc730
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at Testscripts.TC_40.UpdatedOrders(TC_40.java:24)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdatedOrders -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_40@4567f35d]" started-at="2023-12-12T16:57:10 IST" name="downtear" finished-at="2023-12-12T16:57:10 IST" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_40 -->
+      <class name="Testscripts.TC_03">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_03@4f6ee6e4]" started-at="2023-12-12T16:56:54 IST" name="Browserlaunch" finished-at="2023-12-12T16:56:58 IST" duration-ms="4008" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_03@4f6ee6e4]" started-at="2023-12-12T16:56:58 IST" name="logintoApp" finished-at="2023-12-12T16:57:05 IST" duration-ms="6113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="Users()[pri:0, instance:Testscripts.TC_03@4f6ee6e4]" started-at="2023-12-12T16:57:05 IST" name="Users" finished-at="2023-12-12T16:57:08 IST" duration-ms="3547" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Users -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_03@4f6ee6e4]" started-at="2023-12-12T16:57:08 IST" name="downtear" finished-at="2023-12-12T16:57:08 IST" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
       </class> <!-- Testscripts.TC_03 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      <class name="Testscripts.TC_25">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_25@4466af20]" started-at="2023-12-12T16:57:01 IST" name="Browserlaunch" finished-at="2023-12-12T16:57:05 IST" duration-ms="3805" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_25@4466af20]" started-at="2023-12-12T16:57:05 IST" name="logintoApp" finished-at="2023-12-12T16:57:07 IST" duration-ms="2659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="Register()[pri:0, instance:Testscripts.TC_25@4466af20]" started-at="2023-12-12T16:57:07 IST" name="Register" finished-at="2023-12-12T16:57:13 IST" duration-ms="6027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_25@4466af20]" started-at="2023-12-12T16:57:13 IST" name="downtear" finished-at="2023-12-12T16:57:15 IST" duration-ms="1282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_25 -->
+      <class name="Testscripts.TC_24">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_24@6b927fb]" started-at="2023-12-12T16:57:10 IST" name="Browserlaunch" finished-at="2023-12-12T16:57:19 IST" duration-ms="8012" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_24@6b927fb]" started-at="2023-12-12T16:57:19 IST" name="logintoApp" finished-at="2023-12-12T16:57:24 IST" duration-ms="5430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="orderStatus()[pri:0, instance:Testscripts.TC_24@6b927fb]" started-at="2023-12-12T16:57:24 IST" name="orderStatus" finished-at="2023-12-12T16:57:33 IST" duration-ms="9047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderStatus -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_24@6b927fb]" started-at="2023-12-12T16:57:33 IST" name="downtear" finished-at="2023-12-12T16:57:34 IST" duration-ms="601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_24 -->
+      <class name="Testscripts.TC_02">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_02@a514af7]" started-at="2023-12-12T16:57:08 IST" name="Browserlaunch" finished-at="2023-12-12T16:57:15 IST" duration-ms="7069" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_02@a514af7]" started-at="2023-12-12T16:57:15 IST" name="logintoApp" finished-at="2023-12-12T16:57:38 IST" duration-ms="22367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="Menu()[pri:0, instance:Testscripts.TC_02@a514af7]" started-at="2023-12-12T16:57:38 IST" name="Menu" finished-at="2023-12-12T16:57:42 IST" duration-ms="4701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Menu -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_02@a514af7]" started-at="2023-12-12T16:57:42 IST" name="downtear" finished-at="2023-12-12T16:57:43 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_02 -->
+      <class name="Testscripts.TC_23">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_23@359f7cdf]" started-at="2023-12-12T16:56:40 IST" name="Browserlaunch" finished-at="2023-12-12T16:56:44 IST" duration-ms="4227" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_23@359f7cdf]" started-at="2023-12-12T16:56:44 IST" name="logintoApp" finished-at="2023-12-12T16:56:53 IST" duration-ms="8449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="Orders()[pri:0, instance:Testscripts.TC_23@359f7cdf]" started-at="2023-12-12T16:56:53 IST" name="Orders" finished-at="2023-12-12T16:57:14 IST" duration-ms="20769" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"(//a[text()='View Menu'])[4]"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [33fca633b5ac1dcf918270db34bfcb3f, findElement {using=xpath, value=(//a[text()='View Menu'])[4]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56133}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56133/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 33fca633b5ac1dcf918270db34bfcb3f]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//a[text()='View Menu'])[4]"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [33fca633b5ac1dcf918270db34bfcb3f, findElement {using=xpath, value=(//a[text()='View Menu'])[4]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56133}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56133/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 33fca633b5ac1dcf918270db34bfcb3f
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at Testscripts.TC_23.Orders(TC_23.java:23)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Orders -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_23@359f7cdf]" started-at="2023-12-12T16:57:14 IST" name="downtear" finished-at="2023-12-12T16:57:15 IST" duration-ms="874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_23@359f7cdf]" started-at="2023-12-12T16:57:15 IST" name="logintoApp" finished-at="2023-12-12T16:57:15 IST" duration-ms="1" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, get {url=http://elftestingserver/domain/Online_Food_Ordering_System/login.php}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56133}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56133/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, get {url=http://elftestingserver/domain/Online_Food_Ordering_System/login.php}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56133}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56133/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:152)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:304)
+at Pom.BasePage.logintoApp(BasePage.java:28)
+at jdk.internal.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:700)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:527)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="adminOrders()[pri:0, instance:Testscripts.TC_23@359f7cdf]" started-at="2023-12-12T16:57:15 IST" name="adminOrders" finished-at="2023-12-12T16:57:15 IST" duration-ms="0" status="SKIP">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, get {url=http://elftestingserver/domain/Online_Food_Ordering_System/login.php}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56133}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56133/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, get {url=http://elftestingserver/domain/Online_Food_Ordering_System/login.php}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56133}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56133/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:152)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:304)
+at Pom.BasePage.logintoApp(BasePage.java:28)
+at jdk.internal.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:700)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:527)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminOrders -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_23@359f7cdf]" started-at="2023-12-12T16:57:15 IST" name="downtear" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1702380435055" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_23 -->
+      <class name="Testscripts.TC_01">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_01@4f18837a]" started-at="2023-12-12T16:56:33 IST" name="Browserlaunch" finished-at="2023-12-12T16:56:38 IST" duration-ms="4970" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_01@4f18837a]" started-at="2023-12-12T16:56:38 IST" name="logintoApp" finished-at="2023-12-12T16:56:49 IST" duration-ms="11567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="AllRestraurant()[pri:0, instance:Testscripts.TC_01@4f18837a]" started-at="2023-12-12T16:56:49 IST" name="AllRestraurant" finished-at="2023-12-12T16:56:54 IST" duration-ms="4985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AllRestraurant -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_01@4f18837a]" started-at="2023-12-12T16:56:54 IST" name="downtear" finished-at="2023-12-12T16:56:54 IST" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_01 -->
+      <class name="Testscripts.TC_22">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_22@1fa268de]" started-at="2023-12-12T16:56:43 IST" name="Browserlaunch" finished-at="2023-12-12T16:56:47 IST" duration-ms="4055" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_22@1fa268de]" started-at="2023-12-12T16:56:47 IST" name="logintoApp" finished-at="2023-12-12T16:56:57 IST" duration-ms="9537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="delete()[pri:0, instance:Testscripts.TC_22@1fa268de]" started-at="2023-12-12T16:56:57 IST" name="delete" finished-at="2023-12-12T16:57:01 IST" duration-ms="3532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_22@1fa268de]" started-at="2023-12-12T16:57:01 IST" name="downtear" finished-at="2023-12-12T16:57:01 IST" duration-ms="288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_22 -->
+      <class name="Testscripts.TC_07">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_07@323b36e0]" started-at="2023-12-12T16:55:58 IST" name="Browserlaunch" finished-at="2023-12-12T16:56:04 IST" duration-ms="5817" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_07@323b36e0]" started-at="2023-12-12T16:56:04 IST" name="logintoApp" finished-at="2023-12-12T16:56:11 IST" duration-ms="7251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="Delivered()[pri:0, instance:Testscripts.TC_07@323b36e0]" started-at="2023-12-12T16:56:11 IST" name="Delivered" finished-at="2023-12-12T16:56:22 IST" duration-ms="11283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delivered -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_07@323b36e0]" started-at="2023-12-12T16:56:22 IST" name="downtear" finished-at="2023-12-12T16:56:23 IST" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_07 -->
+      <class name="Testscripts.TC_06">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_06@694abbdc]" started-at="2023-12-12T16:56:05 IST" name="Browserlaunch" finished-at="2023-12-12T16:56:09 IST" duration-ms="3889" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_06@694abbdc]" started-at="2023-12-12T16:56:09 IST" name="logintoApp" finished-at="2023-12-12T16:56:20 IST" duration-ms="10931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="ChangeStatus()[pri:0, instance:Testscripts.TC_06@694abbdc]" started-at="2023-12-12T16:56:20 IST" name="ChangeStatus" finished-at="2023-12-12T16:56:28 IST" duration-ms="8686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChangeStatus -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_06@694abbdc]" started-at="2023-12-12T16:56:28 IST" name="downtear" finished-at="2023-12-12T16:56:29 IST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_06 -->
+      <class name="Testscripts.TC_27">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_27@3e58a80e]" started-at="2023-12-12T16:57:11 IST" name="Browserlaunch" finished-at="2023-12-12T16:57:19 IST" duration-ms="8208" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_27@3e58a80e]" started-at="2023-12-12T16:57:19 IST" name="logintoApp" finished-at="2023-12-12T16:57:25 IST" duration-ms="5285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="login()[pri:0, instance:Testscripts.TC_27@3e58a80e]" started-at="2023-12-12T16:57:25 IST" name="login" finished-at="2023-12-12T16:57:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_27@3e58a80e]" started-at="2023-12-12T16:57:25 IST" name="downtear" finished-at="2023-12-12T16:57:25 IST" duration-ms="303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_27 -->
+      <class name="Testscripts.TC_04">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_04@4fb61f4a]" started-at="2023-12-12T16:57:15 IST" name="Browserlaunch" finished-at="2023-12-12T16:57:21 IST" duration-ms="6281" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_04@4fb61f4a]" started-at="2023-12-12T16:57:21 IST" name="logintoApp" finished-at="2023-12-12T16:57:25 IST" duration-ms="3897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="Orders()[pri:0, instance:Testscripts.TC_04@4fb61f4a]" started-at="2023-12-12T16:57:25 IST" name="Orders" finished-at="2023-12-12T16:57:28 IST" duration-ms="3303" status="FAIL">
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <span>...</span> is not clickable at point (66, 337). Other element would receive the click: <div class="preloader" style="opacity: 0.999938;">...</div>
+  (Session info: chrome=120.0.6099.71)
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a123cb693e2b0c28489be715208ee461, clickElement {id=60C4839E84B814C28E851AC0403037B9_element_31}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56252}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56252/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (a123cb693e2b0c28489be715208ee461)] -> xpath: //span[text()='Orders']]
+Session ID: a123cb693e2b0c28489be715208ee461]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span>...</span> is not clickable at point (66, 337). Other element would receive the click: <div class="preloader" style="opacity: 0.999938;">...</div>
+  (Session info: chrome=120.0.6099.71)
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.2', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a123cb693e2b0c28489be715208ee461, clickElement {id=60C4839E84B814C28E851AC0403037B9_element_31}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/t1/_8fp5m6534j...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56252}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56252/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (a123cb693e2b0c28489be715208ee461)] -> xpath: //span[text()='Orders']]
+Session ID: a123cb693e2b0c28489be715208ee461
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at Testscripts.TC_04.Orders(TC_04.java:17)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Orders -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_04@4fb61f4a]" started-at="2023-12-12T16:57:28 IST" name="downtear" finished-at="2023-12-12T16:57:28 IST" duration-ms="422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_04 -->
+      <class name="Testscripts.TC_26">
+        <test-method is-config="true" signature="Browserlaunch()[pri:0, instance:Testscripts.TC_26@4fb0f2b9]" started-at="2023-12-12T16:57:15 IST" name="Browserlaunch" finished-at="2023-12-12T16:57:21 IST" duration-ms="6351" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[browser window is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:Testscripts.TC_26@4fb0f2b9]" started-at="2023-12-12T16:57:21 IST" name="logintoApp" finished-at="2023-12-12T16:57:26 IST" duration-ms="5369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="loginAfterRegister()[pri:0, instance:Testscripts.TC_26@4fb0f2b9]" started-at="2023-12-12T16:57:26 IST" name="loginAfterRegister" finished-at="2023-12-12T16:57:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAfterRegister -->
+        <test-method is-config="true" signature="downtear()[pri:0, instance:Testscripts.TC_26@4fb0f2b9]" started-at="2023-12-12T16:57:26 IST" name="downtear" finished-at="2023-12-12T16:57:27 IST" duration-ms="354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downtear -->
+      </class> <!-- Testscripts.TC_26 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

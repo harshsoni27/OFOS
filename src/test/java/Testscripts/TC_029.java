@@ -1,6 +1,8 @@
 package Testscripts;
 
 import org.testng.annotations.Test;
+import org.testng.annotations.Test;
+import org.testng.annotations.Test;
 
 import Pom.BasePage;
 import Pom.OFOS_welcomepage;

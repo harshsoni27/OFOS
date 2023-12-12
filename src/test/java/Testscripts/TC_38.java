@@ -1,5 +1,9 @@
 package Testscripts;
 
+import org.testng.annotations.Test;
+import org.testng.AssertJUnit;
+import org.testng.Assert;
+import org.testng.annotations.Test;
 import org.openqa.selenium.Alert;
 import org.testng.annotations.Test;
 
@@ -12,6 +16,7 @@ import Pom.RestraurantPage;
 public class TC_38 extends BasePage{
 	@Test
 	public void OrderedItems() throws InterruptedException {
+		String ExceptedResult="";
 		OFOS_welcomepage w=new OFOS_welcomepage(driver);
 		w.getRestaurantLink().click();
 		RestraurantPage r=new RestraurantPage(driver);
@@ -31,6 +36,7 @@ public class TC_38 extends BasePage{
 		alert.accept();
 		
 		w.getOrderNowButton().click();
+		AssertJUnit.assertEquals(driver.getTitle(), ExceptedResult);
 	}
 
 }

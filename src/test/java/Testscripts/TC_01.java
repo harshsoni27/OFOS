@@ -2,6 +2,10 @@ package Testscripts;
 
 
 
+import org.testng.annotations.Test;
+import org.testng.AssertJUnit;
+import org.testng.annotations.Test;
+import org.testng.AssertJUnit;
 import static org.testng.Assert.assertEquals;
 
 import org.testng.annotations.Test;
@@ -26,7 +30,7 @@ public class TC_01 extends BasePage1{
 		a1.getAddress().sendKeys("Bangalore");
 		a1.getSave().click();
 		System.out.println(driver.getTitle());
-	    assertEquals(driver.getTitle(), title, "Add restaurant page is displayed");
+	    AssertJUnit.assertEquals(driver.getTitle(), title);
 		
 		
 		

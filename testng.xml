@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test" parallel="classes">
+    <classes>
+      <class name="Testscripts.TC_30"/>
+      <class name="Testscripts.TC_10"/>
+      <class name="Testscripts.TC_32"/>
+      <class name="Testscripts.TC_31"/>
+      <class name="Testscripts.TC_12"/>
+      <class name="Testscripts.TC_34"/>
+      <class name="Testscripts.TC_11"/>
+      <class name="Testscripts.TC_33"/>
+      <class name="Testscripts.TC_14"/>
+      <class name="Testscripts.TC_36"/>
+      <class name="Testscripts.TC_13"/>
+      <class name="Testscripts.TC_35"/>
+      <class name="Testscripts.TC_16"/>
+      <class name="Testscripts.TC_38"/>
+      <class name="Testscripts.TC_15"/>
+      <class name="Testscripts.TC_37"/>
+      <class name="Testscripts.TC_07"/>
+      <class name="Testscripts.SampleTestCase"/>
+      <class name="Testscripts.TC_06"/>
+      <class name="Testscripts.TC_08"/>
+      <class name="Testscripts.TC_40"/>
+      <class name="Testscripts.TC_21"/>
+      <class name="Testscripts.TC_20"/>
+      <class name="Testscripts.TC_01"/>
+      <class name="Testscripts.TC_23"/>
+      <class name="Testscripts.TC_22"/>
+      <class name="Testscripts.TC_03"/>
+      <class name="Testscripts.TC_25"/>
+      <class name="Testscripts.TC_02"/>
+      <class name="Testscripts.TC_24"/>
+      <class name="Testscripts.TC_27"/>
+      <class name="Testscripts.TC_04"/>
+      <class name="Testscripts.TC_26"/>
+      <class name="Testscripts.TC_18"/>
+      <class name="Testscripts.TC_17"/>
+      <class name="Testscripts.TC_39"/>
+      <class name="Testscripts.TC_19"/>
+      <class name="Testscripts.TC_029"/>
+      <class name="Testscripts.Tc_05"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
