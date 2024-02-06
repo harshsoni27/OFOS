@@ -31,13 +31,5 @@ public class TC_01 extends BasePage1{
 		a1.getSave().click();
 		System.out.println(driver.getTitle());
 	    AssertJUnit.assertEquals(driver.getTitle(), title);
-		
-		
-		
-		
-		
-		
-		
 	}
-
 }
